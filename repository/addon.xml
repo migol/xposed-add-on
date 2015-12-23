@@ -12,7 +12,7 @@
         <sdk:description>Android + Xposed Bridge APIs</sdk:description>
 
         <sdk:api-level>14</sdk:api-level>
-        <sdk:revision>1</sdk:revision>
+        <sdk:revision>2</sdk:revision>
 
         <sdk:libs>
             <sdk:lib>
@@ -40,7 +40,7 @@
         <sdk:description>Android + Xposed Bridge APIs</sdk:description>
 
         <sdk:api-level>15</sdk:api-level>
-        <sdk:revision>1</sdk:revision>
+        <sdk:revision>2</sdk:revision>
 
         <sdk:libs>
             <sdk:lib>
@@ -68,7 +68,7 @@
         <sdk:description>Android + Xposed Bridge APIs</sdk:description>
 
         <sdk:api-level>19</sdk:api-level>
-        <sdk:revision>1</sdk:revision>
+        <sdk:revision>2</sdk:revision>
 
         <sdk:libs>
             <sdk:lib>
