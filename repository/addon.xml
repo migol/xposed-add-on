@@ -22,9 +22,9 @@
 
         <sdk:archives>
             <sdk:archive arch="any" os="any">
-                <sdk:size>108099</sdk:size>
-                <sdk:checksum type="sha1">ce2c2df9519b7010521464f1359502020afe3ff0</sdk:checksum>
-                <sdk:url>xposed_bridge_apis-14-r1.zip</sdk:url>
+                <sdk:size>126631</sdk:size>
+                <sdk:checksum type="sha1">A4ACA43B50128DA0A0F794C5B5833ADC428FDA54</sdk:checksum>
+                <sdk:url>xposed_bridge_apis-14-r2.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:uses-license ref="xposed-bridge-license"/>
@@ -50,9 +50,9 @@
 
         <sdk:archives>
             <sdk:archive arch="any" os="any">
-                <sdk:size>91964</sdk:size>
-                <sdk:checksum type="sha1">9db25fc801bad393ab0d569b8b455e792c59d618</sdk:checksum>
-                <sdk:url>xposed_bridge_apis-15-r1.zip</sdk:url>
+                <sdk:size>126599</sdk:size>
+                <sdk:checksum type="sha1">D208725176FDD3C9476C331558590FA0E6D448A7</sdk:checksum>
+                <sdk:url>xposed_bridge_apis-15-r2.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:uses-license ref="xposed-bridge-license"/>
@@ -78,9 +78,9 @@
 
         <sdk:archives>
             <sdk:archive arch="any" os="any">
-                <sdk:size>90850</sdk:size>
-                <sdk:checksum type="sha1">87d671fc527fce55b446215355b312174ac128d5</sdk:checksum>
-                <sdk:url>xposed_bridge_apis-19-r1.zip</sdk:url>
+                <sdk:size>126599</sdk:size>
+                <sdk:checksum type="sha1">FD7C496E3BF73681D2403CE60C9CD428DA858265</sdk:checksum>
+                <sdk:url>xposed_bridge_apis-19-r2.zip</sdk:url>
             </sdk:archive>
         </sdk:archives>
         <sdk:uses-license ref="xposed-bridge-license"/>
